@@ -30,9 +30,7 @@ The suite of infrared sensors included the following breakout boards:
 - **Adafruit AS7341 11-Channel Spectral Sensor:** For light measurement centered at 8 visible wavelengths and 1 NIR band.
 - **Uxcell E3S-GS30E4 Infrared Fork:** For simple object detection. Unlike the above, which are all on the I2C bus, this was connected via an M12 connector to power, ground, and a digital pin.
 
-![_guts1](https://github.com/dungeonsofdifference/sensor-box/assets/90694171/3ea3ad25-c254-4f69-87df-54ad08a6dd8d)
-
-![_guts2](https://github.com/dungeonsofdifference/sensor-box/assets/90694171/b29246ae-d7eb-40a7-afeb-4ee121bac765)
+![_guts1](https://github.com/dungeonsofdifference/sensor-box/assets/90694171/3ea3ad25-c254-4f69-87df-54ad08a6dd8d) ![_guts2](https://github.com/dungeonsofdifference/sensor-box/assets/90694171/b29246ae-d7eb-40a7-afeb-4ee121bac765)
 
 ## Technical Details
 
