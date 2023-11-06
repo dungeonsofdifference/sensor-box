@@ -6,9 +6,9 @@ Last month's inaugural talk was on solenoids, relays, and contactors — things 
 
 ![_preview](https://github.com/dungeonsofdifference/sensor-box/assets/90694171/1510847c-08a5-4929-96a4-e224c4e07e9e)
 
-## Objectives and Challenges
+## Objective
 
- My objective was to create an interactive display that would not only exhibit the capabilities of different infrared sensors but also serve as a practical learning tool for my audience so that they might think of how they might automate some of their tasks in their respective areas. What I came up with was a box arrayed with multiple sensors with sensor data being displayed on a TFT display and through the serial port. The challenges were to integrate multiple sensors into one coherent system and to provide a user-friendly interface with real-time visual feedback.
+My goal was to create an interactive display that would not only exhibit the capabilities of different infrared sensors but also serve as a practical learning tool for my audience so that they might think of how they might automate some of their tasks in their respective areas. What I came up with was a box arrayed with multiple sensors with sensor data being displayed on a TFT display. The challenge was learning how to integrate multiple sensors into one coherent system and to provide a user-friendly interface with real-time visual feedback.
 
 ## Materials
 
@@ -53,6 +53,8 @@ The display consisted of the following elements:
 - **Top:** Title of the Sensor/Mode
 - **Left:** Vertical Menu with an arrow drawn pointing next to the current mode
 - **Center:** Sensor output; alphanumeric for all except the thermal camera
+
+I know there were a lot of missed opportunities, but I hadn’t used an LCD in any of my projects prior to this. I learned a lot about the limitations of the SPI interface, but I was able to get relavent portions to update without flicker.
 
 ### Rotary Switch
 
